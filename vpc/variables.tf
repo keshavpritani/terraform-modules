@@ -1,0 +1,3 @@
+variable "vpcs" {
+  type = any
+}
